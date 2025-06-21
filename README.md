@@ -5,7 +5,7 @@ This is a real-world, end-to-end **Retail Data Analytics Project** built to demo
 ---
 
 ## 📁 Project Structure
-
+ 
 ```
 Retail-Analytics-Project/
 ├── dashboard/
