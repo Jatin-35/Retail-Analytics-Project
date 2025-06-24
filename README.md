@@ -11,7 +11,7 @@ Retail-Analytics-Project/
 ├── dashboard/
 │   └── retail_dashboard.twb               # Tableau dashboard
 │
-├── data/
+├── data/ 
 │   ├── raw/
 │   │   ├── data.csv                       # Raw input data
 │   │   └── online_retail_II.xlsx         # Original dataset
